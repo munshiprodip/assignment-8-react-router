@@ -23,7 +23,7 @@ const LeagueDetails = () => {
       const startDate  = new Date(leagueData?.dateFirstEvent);
       console.log(startDate)
 
-      const imageName = leagueData?.strGender === "Male"? 'male.png' : 'female.png';
+      const imageName = leagueData?.strGender !== "Male"? 'female.png' : 'male.png';
       const defaultFb ="www.facebook.com/munshiprodip"
 
     return (
