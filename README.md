@@ -1,6 +1,26 @@
-# SportPedia
+## SportsPedia ( Explore your foverite League )
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Features
+- Find your foverite league;
+- Explore League for details.
+- Dinamicaly load League data from API;
+- Dinamicaly load indivisual League data from diferent API;
+- Showing League details using "React Router Dom" with dinamic url;
+- Showing League sample image filter by gender type;
 
+
+######Live preview:  [Heading link](https://blissful-mestorf-2204c0.netlify.app "Heading link")
+
+
+###Character
+
+
+*Using Technology*
+- <abbr title="Hyper Text Markup Language">React.js</abbr>
+- <abbr title="Hyper Text Markup Language">React Router</abbr>
+- <abbr title="Hyper Text Markup Language">Bootstrap</abbr>
+- <abbr title="Hyper Text Markup Language">Fontwasome</abbr>
+- <abbr title="Hyper Text Markup Language">API</abbr>
+
+Prodip M.

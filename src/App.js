@@ -7,6 +7,7 @@ import {
   Route
 } from "react-router-dom";
 import Home from './components/Home/Home';
+import Ops404 from './components/Ops404/Ops404';
 
 function App() {
  
@@ -22,6 +23,9 @@ function App() {
               </Route>
               <Route path="/details/:idLeague">
                   <LeagueDetails />
+              </Route>
+              <Route path="*">
+                  <Ops404 />
               </Route>
             </Switch>
       </Router>
