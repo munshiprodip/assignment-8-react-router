@@ -10,7 +10,7 @@
 - Showing League sample image filter by gender type;
 
 
-######Live preview:  [Heading link](https://blissful-mestorf-2204c0.netlify.app "Heading link")
+######Live preview:  [Heading link](https://blissful-mestorf-2204c0.netlify.app "https://blissful-mestorf-2204c0.netlify.app/")
 
 
 ###Character
